@@ -3,3 +3,6 @@ _book/
 
 content/.DS_Store
 .DS_Store
+
+/.quarto/
+**/*.quarto_ipynb
