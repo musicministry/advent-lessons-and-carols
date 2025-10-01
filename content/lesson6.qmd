@@ -1,0 +1,52 @@
+---
+title: Sixth Lesson
+subtitle: Birth of Jesus according to Luke [Luke 2:8-20]{style="float:right" .small}
+---
+
+## Lesson
+
+A reading from the Holy Gospel according to Luke:
+
+Now there were shepherds in that region living in the fields and keeping the night watch over their flock.
+The angel of the Lord appeared to them and the glory of the Lord shone around them, and they were struck with great fear.
+The angel said to them, “Do not be afraid; for behold, I proclaim to you good news of great joy that will be for all the people.
+For today in the city of David a savior has been born for you who is Messiah and Lord.
+And this will be a sign for you: you will find an infant wrapped in swaddling clothes and lying in a manger.”
+And suddenly there was a multitude of the heavenly host with the angel, praising God and saying:
+
+“Glory to God in the highest
+and on earth peace to those on whom his favor rests.”
+
+The Visit of the Shepherds.
+When the angels went away from them to heaven, the shepherds said to one another, “Let us go, then, to Bethlehem to see this thing that has taken place, which the Lord has made known to us.”
+So they went in haste and found Mary and Joseph, and the infant lying in the manger.
+When they saw this, they made known the message that had been told them about this child.
+All who heard it were amazed by what had been told them by the shepherds.
+And Mary kept all these things, reflecting on them in her heart.
+Then the shepherds returned, glorifying and praising God for all they had heard and seen, just as it had been told to them.
+
+## Carol
+
+#### 1. Hark! the Herald Angels Sing [MENDELSSOHN]{style="float:right" .small}
+
+{{< video https://www.youtube.com/watch?v=kZQGgpqQhs4 >}}
+
+Full choirs and congregation; transition to Christmas music
+
+#### 2. O Come, Little Children [IHR KINDERLEIN, KOMMET]{style="float:right" .small}
+
+{{< video https://www.youtube.com/watch?v=v4ZkfUAiGCM >}}
+
+Pageant participants move into place during this song.
+
+::: {.callout-note}
+If the pageant has scenes prior to the birth of Jesus, this song can be moved earlier in the program.
+:::
+
+## Prayer
+
+Lord,  
+you came to us in humility and vulnerability.  
+May we always show loving care to those around us,  
+especially those in most need.  
+Amen.

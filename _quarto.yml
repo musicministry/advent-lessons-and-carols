@@ -1,0 +1,45 @@
+project:
+  type: book
+
+book:
+  title: "An Advent Festival of Lessons, Carols, and Pageantry | 2025"
+  subtitle: "Saint Egbert School and Parish Music Ministry"
+  date: "December 2025"
+  cover-image: "images/advent-wreath.jpg"
+  page-navigation: true
+  output-file: "lessons-carols"
+  chapters:
+    - text: Program
+      href: index.qmd
+    - content/opening.qmd
+    - content/lesson1.qmd
+    - content/lesson2.qmd
+    - content/lesson3.qmd
+    - content/lesson4.qmd
+    - content/lesson5.qmd
+    - content/lesson6.qmd
+    - content/lesson7.qmd
+    - content/lesson8.qmd
+    - content/lesson9.qmd
+    - content/closing.qmd
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: style.css
+    number-sections: false
+    # filters:
+    #   - fonts-and-alignment.lua
+  pdf:
+    documentclass: scrreprt
+    include-in-header: 
+      text: |
+        \usepackage{imakeidx}
+        \makeindex[intoc=true, columns=2, columnseprule=false, options=-s latex/indexstyles.ist]
+    include-after-body: 
+      text: |
+        \printindex
+    css: style.css
+    filters:
+      - fonts-and-alignment.lua
