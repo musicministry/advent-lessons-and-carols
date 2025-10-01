@@ -7,7 +7,10 @@ book:
   cover-image: "images/advent-wreath.jpg"
   cover-image-alt: "Advent wreath"
   page-navigation: true
+  repo-url: https://github.com/musicministry/advent-lessons-and-carols
+  repo-actions: [edit, issue]
   output-file: "lessons-carols"
+  downloads: [pdf]
   chapters:
     - text: Program
       href: index.qmd
@@ -22,6 +25,12 @@ book:
     - content/lesson8.qmd
     - content/lesson9.qmd
     - content/closing.qmd
+  page-footer: 
+    background: light
+    left: "This site made with Quarto"
+    right:
+      - icon: github
+        href: https://github.com/musicministry
 format:
   html:
     theme:
