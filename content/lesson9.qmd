@@ -1,42 +1,50 @@
 ---
 title: Ninth Lesson
-subtitle: Prologue to John [John 1:1-14]{style="float:right" .small}
+subtitle: '**Prologue to John:** *The Word became flesh and lived among us,and we have seen his glory.* [John 1:1-14]{style="float:right" .small}'
 ---
 
 ## Lesson
 
+A reading from the gospel according to John.
+
 In the beginning was the Word,  
 and the Word was with God,  
 and the Word was God.  
-
 He was in the beginning with God.  
-All things came to be through him,  
-and without him nothing came to be.  
-What came to be  
-through him was life,  
-and this life was the light of the human race;  
-the light shines in the darkness,  
-and the darkness has not overcome it.  
+All things came into being through him,  
+and without him not one thing came into being.  
+What has come into being in him was life,  
+and the life was the light of all people.  
 
-A man named John was sent from God.  
-He came for testimony, to testify to the light, so that all might believe through him.  
-He was not the light, but came to testify to the light.  
-The true light, which enlightens everyone, was coming into the world.  
+The light shines in the darkness,  
+and the darkness did not overcome it.  
+There was a man sent from God, whose name was John.  
+He came as a witness to testify to the light,  
+so that all might believe through him.  
+He himself was not the light,  
+but he came to testify to the light.  
 
+The true light, which enlightens everyone,  
+was coming into the world.  
 He was in the world,  
-and the world came to be through him,  
-but the world did not know him.  
+and the world came into being through him;  
+yet the world did not know him.  
 He came to what was his own,  
-but his own people did not accept him.  
+and his own people did not accept him.  
+But to all who received him,  
+who believed in his name,  
+he gave power to become children of God,  
+who were born, not of blood  
+or of the will of the flesh  
+or of the will of man,  
+but of God.
 
-But to those who did accept him he gave power to become children of God,   to those who believe in his name,  
-who were born not by natural generation nor by human choice nor by a man’s decision but of God.  
-
-And the Word became flesh  
-and made his dwelling among us,  
-and we saw his glory,  
-the glory as of the Father’s only Son,  
+And the Word became flesh and lived among us,  
+and we have seen his glory,  
+the glory as of a father’s only son,  
 full of grace and truth.  
+
+The word of the Lord.
 
 ## Carol
 
@@ -50,6 +58,7 @@ God of power and might,
 you are beyond all time and space.  
 May we never fail to recognize your majesty  
 and give praise to you in all we do.  
+We ask this through Christ our Lord.  
 Amen
 
 ### Estimated time
