@@ -2,10 +2,10 @@ project:
   type: book
 
 book:
-  title: "An Advent Festival of Lessons, Carols, and Pageantry | 2025"
+  title: "An Advent Festival of Lessons, Carols, and Pageantry"
   subtitle: "Saint Egbert School and Parish Music Ministry"
-  date: "December 2025"
   cover-image: "images/advent-wreath.jpg"
+  cover-image-alt: "Advent wreath"
   page-navigation: true
   output-file: "lessons-carols"
   chapters:
